@@ -8,7 +8,9 @@ I have an interest in IT, especially in software development.
 
 I have expertise in **Mobile Development** especially flutter, besides that I have a few examples of small projects that I made android/ios applications using **Flutter**, if you are interested you can take a look at my github profile.
 
-### Github Statistic
+---
+
+### ⚡ Recent Activity
 <p align="left">
 <a href="https://github.com/dimasmds">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aziszy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
