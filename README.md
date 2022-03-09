@@ -19,6 +19,4 @@ I have expertise in **Mobile Development** especially flutter, besides that I ha
 </p>
 
 ### Reach me on
-<a href="https://www.linkedin.com/in/abdul-azis-150139210/">
-  <img align="left" alt="Abdul Azis Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+* [LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
