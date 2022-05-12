@@ -3,7 +3,7 @@
 **Computer Engineering Student** at Sepuluh Nopember Institute of Technology.<br>
 Interest in Flutter, Machine Learning.<br>
 You can reach me in :
-* [LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)
+[![linkedin]](www.linkedin.com/in/zisz)
 
 ---
 
