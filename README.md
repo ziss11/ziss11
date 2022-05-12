@@ -6,7 +6,7 @@ Interest in Flutter, Machine Learning.<br>
 You can reach me in :
 </br>
 </br>
-[![linkedin]](www.linkedin.com/in/zisz/)
+[![linkedin]](https://www.linkedin.com/in/zisz/)
 
 ---
 
