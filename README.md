@@ -1,7 +1,7 @@
 # Hi there i'm Azis👋
 
 **Computer Engineering Student** at Sepuluh Nopember Institute of Technology.<br>
-Interest in Flutter, Machine Learning.<br>
+Interest in Flutter and Machine Learning.<br>
 
 You can reach me in :
 </br>
