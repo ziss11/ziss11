@@ -1,14 +1,9 @@
-# Hi there i'm Azis👋
+### **Hello 🌍 My name is** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-**Computer Engineering Student** at Sepuluh Nopember Institute of Technology.<br>
-Interest in Flutter and Machine Learning.<br>
+I'm Flutter, Android and Machine Learning Enthusiast
 
-You can reach me in :
-</br>
-</br>
-[![linkedin]](https://www.linkedin.com/in/zisz/)
-
----
+📚 Currently learning Mobile Development using Kotlin and Flutter.</br>
+📚 Currently learning Machine Learning using Tensorflow.
 
 ### ⚡ Github History
 <p align="left">
@@ -19,7 +14,3 @@ You can reach me in :
   <img width="44%" src="https://github-profile-trophy.vercel.app/?username=ziszz&column=4&margin-w=10&margin-h=10"/>
 </a>
 </p>
-
-<!-- LINKS -->
-
-[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
