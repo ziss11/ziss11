@@ -13,8 +13,10 @@ You can reach me in :
 ### ⚡ Github History
 <p align="left">
 <a href="https://github.com/ziszz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ziszz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ziszz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ziszz&show_icons=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziszz&layout=compact"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ziszz"/>
+  <img width="36%" src="https://github-profile-trophy.vercel.app/?username=ziszz&column=4&margin-w=10&margin-h=10"/>
 </a>
 </p>
 
