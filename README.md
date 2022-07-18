@@ -1,4 +1,4 @@
-## **Hello 🌍 My name is** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
+## **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
 I'm Flutter, Android and Machine Learning Enthusiast
 
