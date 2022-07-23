@@ -1,8 +1,6 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-I'm Flutter and Machine Learning Enthusiast
-
-📚 Currently learning Mobile Development using Flutter.</br>
+📚 Currently learning Mobile Development using Flutter and Kotlin.</br>
 📚 Currently learning Machine Learning using Tensorflow.
 
 ### ⚡ Github History
