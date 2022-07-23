@@ -2,7 +2,7 @@
 
 I'm Flutter, Android and Machine Learning Enthusiast
 
-📚 Currently learning Mobile Development using Kotlin and Flutter.</br>
+📚 Currently learning Mobile Development using Flutter and Kotlin.</br>
 📚 Currently learning Machine Learning using Tensorflow.
 
 ### ⚡ Github History
