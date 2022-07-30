@@ -1,7 +1,7 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
 📚 Currently learning Mobile Development using Flutter and Kotlin.</br>
-📚 Currently learning Machine Learning using Tensorflow.
+📚 Currently learning Machine Learning.
 
 ### ⚡ Github History
 <p align="left">
