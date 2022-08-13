@@ -1,6 +1,6 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-📚 Currently learning Mobile Development using Flutter and Kotlin.</br>
+📚 Currently learning Mobile Development using Flutter.</br>
 📚 Currently learning Machine Learning.
 
 #### ⚡ Github History
