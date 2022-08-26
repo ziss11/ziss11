@@ -1,7 +1,6 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-📚 Currently learning Mobile Development using Flutter.</br>
-📚 Currently learning Machine Learning.
+I have a passion to become a Software Engineer. I’m specialized in Flutter and Machine Learning.
 
 #### ⚡ Github History
 <p align="left">
