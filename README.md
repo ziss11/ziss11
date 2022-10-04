@@ -1,6 +1,6 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-I have a passion to become a Software Engineer. I’m specialized in Flutter and Machine Learning.
+I have a passion to become a Software Engineer. I’m specialized in Mobile Development and Machine Learning.
 
 #### ⚡ Github History
 <p align="left">
