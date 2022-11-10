@@ -2,7 +2,7 @@
 
 I have a passion to become a Software Engineer. I’m specialized in Mobile Development and Machine Learning.
 
-#### ⚡ Github History
+### ⚡ Github History
 <p align="left">
 <a href="https://github.com/ziszz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ziszz&show_icons=true&theme=algolia&include_all_commits=true"/>
