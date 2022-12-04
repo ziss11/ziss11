@@ -1,8 +1,12 @@
 ### **Hello 🌍 I am** [Abdul Azis](https://www.linkedin.com/in/zisz/) 👋
 
-I have a passion to become a Software Engineer. I’m specialized in Mobile Development and Machine Learning.
+I have a passion to become a Software Engineer. Specialized in Mobile Development and Machine Learning.</br>
 
-### ⚡ Github History
+- 🌱 Currently learning Native Android
+- 🎯: Primary language: Dart
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
+
+### ⚡ GitHub Activity
 <p align="left">
 <a href="https://github.com/ziszz">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ziszz&show_icons=true&theme=algolia&include_all_commits=true"/>
