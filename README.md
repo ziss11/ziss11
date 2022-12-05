@@ -1,4 +1,4 @@
-### Hello 🌍 I am Abdul Azis👋
+### Hello 🌍 I am Abdul Azis
 
 I have a passion to become a Software Engineer. Specialized in Mobile Development and Machine Learning.</br>
 
