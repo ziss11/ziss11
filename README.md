@@ -3,7 +3,7 @@
 I have a passion to become a Software Engineer. Specialized in Mobile Development and Machine Learning.</br>
 
 - 🌱 Currently learning Native Android
-- 🎯 Primary tech: Flutter(Dart)
+- 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
 
 ### ⚡ GitHub Activity
