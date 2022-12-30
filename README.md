@@ -2,7 +2,7 @@
 
 I have a passion to become a Software Engineer. Specialized in Mobile Development and Machine Learning.</br>
 
-- 🌱 Currently learning Back End
+- 🌱 Currently learning Back End with AWS
 - 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
 
