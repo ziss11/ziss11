@@ -1,6 +1,6 @@
 ### Hello 🌍 I am Abdul Azis
 
-I have a passion to become a Software Engineer. Specialized in Mobile Development and Machine Learning.</br>
+I have a passion to become a Software Engineer. Specialized in Mobile Development.</br>
 
 - 🌱 Currently learning Back End and Cloud Technology with AWS
 - 🎯 Primary tech: Flutter (Dart)
