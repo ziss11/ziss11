@@ -1,8 +1,8 @@
 ### Hello 🌍 I am Abdul Azis
 
-I have a passion to become a Software Engineer. Specialized in Mobile Development.</br>
+Mobile Developer Intern at [Suitmedia Digital Agency](https://suitmedia.com). Interested in Flutter, Native Android and Machine Learning.</br>
+Currently learning Back End and Cloud Technology using AWS.</br>
 
-- 🌱 Currently learning Back End and Cloud Technology with AWS
 - 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
 
