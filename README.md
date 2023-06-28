@@ -1,6 +1,6 @@
 ### Hello 🌍 I am Abdul Azis
 
-Mobile Developer Intern at [Suitmedia Digital Agency](https://suitmedia.com). Interested in Flutter, Native Android and Machine Learning.</br>
+Interested in Flutter, Native Android and Machine Learning.</br>
 Currently learning Back End and Cloud Technology using AWS.</br>
 
 - 🎯 Primary tech: Flutter (Dart)
