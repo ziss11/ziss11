@@ -1,7 +1,7 @@
 ### Hello 🌍 I am Abdul Azis
 
 Interested in Flutter, Native Android and Machine Learning.</br>
-Currently learning Back End and Cloud Technology using AWS.</br>
+Currently learning Back with NodeJs and Hapi Framework</br>
 
 - 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
