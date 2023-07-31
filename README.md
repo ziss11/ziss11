@@ -1,6 +1,6 @@
 ### Hello 🌍 I am Abdul Azis
 
-I want to be a Full Stack Mobile Deeveloper. Interested in Flutter, Native Android and NodeJS. I also have experience in developing Machine Learning project using TensorFlow.
+I want to be a Full Stack Mobile Developer. Interested in Flutter, Native Android and NodeJS. I also have experience in developing Machine Learning project using TensorFlow.
 </br>
 </br>
 Currently learning Back End with NodeJs and Hapi Framework.</br>
