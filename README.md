@@ -1,7 +1,9 @@
 ### Hello 🌍 I am Abdul Azis
 
-Interested in Flutter, Native Android and Machine Learning.</br>
-Currently learning Back with NodeJs and Hapi Framework</br>
+I want to be a Full Stack Mobile Deeveloper. Interested in Flutter, Native Android and NodeJS. I also have experience in developing Machine Learning project using TensorFlow.
+</br>
+</br>
+Currently learning Back End with NodeJs and Hapi Framework.</br>
 
 - 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
