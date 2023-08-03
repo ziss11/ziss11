@@ -1,6 +1,6 @@
 ### Hello 🌍 I am Abdul Azis
 
-I want to be a Mobile Developer. Interested in Flutter and Native Android. I also have experience in developing Machine Learning project using TensorFlow.
+I'm a Mobile Developer. Interested in Flutter and Native Android. I also have experience in developing Machine Learning project using TensorFlow.
 </br>
 </br>
 Currently learning Back End with NodeJs and Hapi Framework.</br>
