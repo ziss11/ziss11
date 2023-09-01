@@ -2,8 +2,6 @@
 
 I'm a Mobile Developer. Interested in Flutter and Native Android. I also have experience in developing Machine Learning project using TensorFlow and on the way to becoming Full-Stack Mobile Developer.
 </br>
-</br>
-Currently learning Back End with ExpressJs.</br>
 
 - 🎯 Primary tech: Flutter (Dart)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/zisz)
